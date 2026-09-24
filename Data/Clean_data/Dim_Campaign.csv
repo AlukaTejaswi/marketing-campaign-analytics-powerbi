@@ -1,0 +1,26 @@
+﻿Campaign_ID,Campaign_Name,Campaign_Type,Objective
+CMP001,Summer Sale,Promotional,Sales
+CMP002,Winter Essentials,Promotional,Sales
+CMP003,New Customer Welcome,Acquisition,Acquisition
+CMP004,Back to School,Seasonal,Sales
+CMP005,EOFY Deals,Promotional,Sales
+CMP006,Spring Refresh,Seasonal,Sales
+CMP007,Black Friday,Promotional,Sales
+CMP008,Christmas Gifting,Seasonal,Sales
+CMP009,Loyalty Rewards,Retention,Retention
+CMP010,Weekend Flash Sale,Promotional,Sales
+CMP011,Fitness January,Seasonal,Acquisition
+CMP012,Home Refresh,Promotional,Sales
+CMP013,Beauty Essentials,Promotional,Sales
+CMP014,Tech Upgrade,Promotional,Sales
+CMP015,Mid-Year Clearance,Promotional,Sales
+CMP016,Refer a Friend,Referral,Acquisition
+CMP017,VIP Customer Offer,Retention,Retention
+CMP018,Free Shipping,Promotional,Sales
+CMP019,Gift Guide,Seasonal,Sales
+CMP020,Payday Promotion,Promotional,Sales
+CMP021,Summer Clearance,Promotional,Sales
+CMP022,Winter Warmers,Seasonal,Sales
+CMP023,New Product Launch,Product Launch,Acquisition
+CMP024,Member Exclusive,Retention,Retention
+CMP025,App Promotion,Acquisition,Acquisition
