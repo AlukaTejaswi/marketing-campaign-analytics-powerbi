@@ -111,7 +111,7 @@ UrbanCart-Marketing-Analytics/
 │
 ├── data/                         # Raw and cleaned marketing datasets
 │
-├── powerbi/                      # Power BI dashboard file
+├── dashboard/                      # Power BI dashboard file
 │   └── UrbanCart Marketing Analytics.pbix
 │
 ├── dax/                          # DAX measures and calculations
@@ -382,7 +382,7 @@ because their economics are fundamentally different.
 
 ## Power BI Dashboard
 ### Open Power BI Dashboard:
-'./powerbi/UrbanCart\_marketing\_campaign\_performance\_dashboard.pbix'
+'./dashboard/UrbanCart\_marketing\_campaign\_performance\_dashboard.pbix'
 
 ### 1. UrbanCart Marketing Performance Overview
 **Business question:** How is UrbanCart's overall marketing performance?
